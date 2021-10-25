@@ -5,10 +5,10 @@
 </ul>
 <div>
   <a href="https://github.com/runtime7error">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=runtime7error&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runtime7error&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=runtime7error&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runtime7error&layout=compact&langs_count=7&theme=react"/>
 
-  <img align="right" width="148" height="180" src="https://www.pngkit.com/png/full/72-724127_solaire-of-astora-poster.png">
+
 </div>
  <br>
 <div  align="center"> 
@@ -19,11 +19,11 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="dotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg">
-
+  
  
     
 </div>
-
+<img align="center" width="148" height="180" src="https://www.pngkit.com/png/full/72-724127_solaire-of-astora-poster.png">
  
   ![Snake animation](https://github.com/runtime7error/runtime7error/blob/master/github-contribution-grid-snake.svg)
  
